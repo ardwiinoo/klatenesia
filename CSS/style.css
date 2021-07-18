@@ -1004,4 +1004,8 @@ footer p {
   .container9 #wa {
     margin-left: 15px;
   }
+  
+  footer{
+    bottom: 0;
+  }
 }
